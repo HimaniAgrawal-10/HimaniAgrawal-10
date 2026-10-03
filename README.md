@@ -25,6 +25,12 @@
 
 [GitHub](https://github.com/HimaniAgrawal-10)
 
+## 🌟 Roles
+
+![Microsoft Student Ambassador](https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?logo=microsoft&logoColor=white)
+
+![Google Student Ambassador](https://img.shields.io/badge/Google-Student%20Ambassador-4285F4?logo=google&logoColor=white)
+
 ## 🚀 Languages and Tools
 
 <p align="center">
