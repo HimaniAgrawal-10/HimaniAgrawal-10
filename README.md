@@ -80,6 +80,8 @@ Multilingual Emergency First-Aid, Ambulance Alert and Blood Donor Finder System.
 🔹 SQLite
 🔹 Bootstrap
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimaniAgrawal-10&theme=github_dark" />
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=HimaniAgrawal-10)
