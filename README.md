@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Himani Agrawal</h1>
 
-<!--
-**HimaniAgrawal-10/HimaniAgrawal-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Microsoft Student Ambassador | Google Student Ambassador 2026 | AI/ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+Developer;Open+Source+Contributor;Future+Software+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🌟 Microsoft Student Ambassador
+- 🌟 Google Student Ambassador 2026
+- 🤖 Learning AI/ML & Data Science
+- 🚀 Building LifeAid Project
+- 📫 Reach me on LinkedIn
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/himani-agrawal-447a24336)
+
+[GitHub](https://github.com/HimaniAgrawal-10)
+
+## 🚀 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HimaniAgrawal-10&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=HimaniAgrawal-10&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniAgrawal-10&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=HimaniAgrawal-10)
