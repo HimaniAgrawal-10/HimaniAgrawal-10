@@ -2,6 +2,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Himani%20Agrawal&fontSize=60&animation=fadeIn" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3b82f6,50:60a5fa,100:93c5fd&text=Himani%20Agrawal&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+
 <h3 align="center">Microsoft Student Ambassador | Google Student Ambassador 2026 | AI/ML Enthusiast</h3>
 
 <p align="center">
