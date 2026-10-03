@@ -80,4 +80,4 @@ Multilingual Emergency First-Aid, Ambulance Alert and Blood Donor Finder System.
 ![](https://komarev.com/ghpvc/?username=HimaniAgrawal-10)
 
 
-⭐ From [HimaniAgrawal-10](https://github.com/HimaniAgrawal-10)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3b82f6,50:60a5fa,100:93c5fd"/>
