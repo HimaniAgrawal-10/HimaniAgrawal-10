@@ -1,30 +1,29 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate Pacman Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: HimaniAgrawal-10
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00bfff&color_dots=#dbeafe,#93c5fd,#60a5fa,#3b82f6,#1d4ed8
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00bfff&color_dots=#0f172a,#1e3a8a,#2563eb,#60a5fa,#93c5fd
+          theme: dark
+          output: dist/pacman-contribution-graph.svg
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
