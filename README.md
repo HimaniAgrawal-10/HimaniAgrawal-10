@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Himani Agrawal</h1>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&text=Himani%20Agrawal"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3b82f6,50:60a5fa,100:93c5fd&text=Himani%20Agrawal&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+## 💻 Terminal
+
+bash
+> whoami
+Himani Agrawal
+
+> role
+Microsoft Student Ambassador
+Google Student Ambassador 2026
+
+> current_project
+LifeAid
+
+> learning
+AI/ML | Python | Data Science
+
+> mission
+Build technology that creates real-world impact
+
+> status
+[██████████] ACTIVE
 
 <h3 align="center">Microsoft Student Ambassador | Google Student Ambassador 2026 | AI/ML Enthusiast</h3>
 
