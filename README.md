@@ -55,7 +55,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniAgrawal-10&layout=compact&theme=tokyonight)
 
+## 🚑 Featured Project
 
+### LifeAid
+Multilingual Emergency First-Aid, Ambulance Alert and Blood Donor Finder System.
+
+🔹 Flask
+🔹 Python
+🔹 SQLite
+🔹 Bootstrap
 
 ## 👀 Profile Views
 
