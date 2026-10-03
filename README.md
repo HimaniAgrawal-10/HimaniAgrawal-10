@@ -55,13 +55,6 @@
 <img src="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/pacman-contribution-graph.svg" />
 
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=HimaniAgrawal-10&theme=tokyonight)
