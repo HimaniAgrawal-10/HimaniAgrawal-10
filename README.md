@@ -27,15 +27,11 @@
 
 ## 🚀 Languages and Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode" />
-</p>
-
-## 🚀 Skills
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode" />
 </p>
+
+
 
 ## 📊 GitHub Stats
 
