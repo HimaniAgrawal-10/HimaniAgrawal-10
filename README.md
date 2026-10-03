@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himani Agrawal</h1>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Himani%20Agrawal&fontSize=60&animation=fadeIn" />
+</p>
 <h3 align="center">Microsoft Student Ambassador | Google Student Ambassador 2026 | AI/ML Enthusiast</h3>
 
 <p align="center">
