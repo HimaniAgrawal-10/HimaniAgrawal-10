@@ -37,13 +37,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=HimaniAgrawal-10&show_icons=true&theme=tokyonight)
 
-## 📈 Contribution Activity
-
-[![Himani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniAgrawal-10&theme=github-compact)](https://github.com/HimaniAgrawal-10)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=HimaniAgrawal-10)
+
+## 📈 Contribution Activity
+
+[![Himani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniAgrawal-10&theme=github-compact)](https://github.com/HimaniAgrawal-10)
+
 
 ## 🐍 Contribution Snake
 
