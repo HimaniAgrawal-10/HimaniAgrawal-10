@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+Developer;Open+Source+Contributor;Future+Software+Engineer" />
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -29,25 +29,25 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=HimaniAgrawal-10&show_icons=true&theme=tokyonight)
 
----
+
 
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=HimaniAgrawal-10&theme=tokyonight)
 
----
+
 
 ## 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniAgrawal-10&layout=compact&theme=tokyonight)
 
----
+
 
 ## 👀 Profile Views
 
