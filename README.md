@@ -16,7 +16,7 @@
 - 🤖 Learning AI/ML & Data Science
 - 🚀 Building LifeAid Project
 - 📫 Reach me on LinkedIn
-
+![](https://komarev.com/ghpvc/?username=HimaniAgrawal-10&label=Profile+Views)
 ## 🌐 Connect With Me
 
 [LinkedIn](https://linkedin.com/in/himani-agrawal-447a24336)
