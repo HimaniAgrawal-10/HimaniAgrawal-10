@@ -41,9 +41,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=HimaniAgrawal-10)
 
-## 📈 Contribution Activity
+## 🐙 GitHub Contribution Art
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniAgrawal-10&theme=tokyo-night)
+<img src="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/contribution-graph-logo.svg" />
 
 ## 🔥 GitHub Streak
 
