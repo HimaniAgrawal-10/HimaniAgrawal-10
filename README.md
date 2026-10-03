@@ -50,9 +50,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=HimaniAgrawal-10)
 
-## 📈 Contribution Activity
+## 🟡 Pacman Eats My Contributions
 
-[![Himani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniAgrawal-10&theme=github-compact)](https://github.com/HimaniAgrawal-10)
+<img src="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/pacman-contribution-graph.svg" />
 
 
 ## 🐍 Contribution Snake
