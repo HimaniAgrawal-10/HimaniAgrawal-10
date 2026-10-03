@@ -37,6 +37,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=HimaniAgrawal-10&show_icons=true&theme=tokyonight)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=HimaniAgrawal-10)
+
 ## 🐍 Contribution Snake
 
 ![Snake](https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake.svg)
