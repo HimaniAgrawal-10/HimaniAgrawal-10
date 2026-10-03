@@ -43,7 +43,9 @@
 
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🔥 GitHub Streak
 
