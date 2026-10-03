@@ -57,7 +57,11 @@
 
 ![](https://streak-stats.demolab.com?user=HimaniAgrawal-10&theme=tokyonight)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimaniAgrawal-10&theme=github_dark" />
 
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HimaniAgrawal-10&theme=github-compact&hide_border=true&area=true">
 
 ## 💻 Most Used Languages
 
@@ -73,7 +77,6 @@ Multilingual Emergency First-Aid, Ambulance Alert and Blood Donor Finder System.
 🔹 SQLite
 🔹 Bootstrap
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimaniAgrawal-10&theme=github_dark" />
 
 ## 👀 Profile Views
 
