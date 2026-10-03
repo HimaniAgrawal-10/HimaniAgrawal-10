@@ -1,6 +1,30 @@
-- name: Generate GitHub Logo Graph
-  uses: leereilly/contribution-graph-art@v1
-  with:
-    github_user_name: HimaniAgrawal-10
-    tetromino_count: "0"
-    output_path: dist/contribution-graph-logo.svg
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HimaniAgrawal-10
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#ff1493&color_dots=#ff0000,#ff7f00,#ffff00,#00ff00,#00bfff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff1493&color_dots=#2d1b69,#7b2cbf,#c77dff,#e0aaff,#f8d7ff
+
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
