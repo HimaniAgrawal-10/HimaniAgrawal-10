@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himani Agrawal</h1>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Microsoft+Student+Ambassador;Google+Student+Ambassador+2026;AI%2FML+Enthusiast;Python+Developer" />
+</p>
 <h3 align="center">Microsoft Student Ambassador | Google Student Ambassador 2026 | AI/ML Enthusiast</h3>
 
 <p align="center">
