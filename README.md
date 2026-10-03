@@ -41,9 +41,12 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=HimaniAgrawal-10)
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniAgrawal-10&theme=tokyo-night)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/HimaniAgrawal-10/HimaniAgrawal-10/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🔥 GitHub Streak
 
